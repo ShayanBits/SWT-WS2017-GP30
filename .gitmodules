@@ -1,0 +1,3 @@
+[submodule "swt2017_readonly"]
+	path = swt2017_readonly
+	url = https://github.com/ShayanSolid/SWT-WS2017-GP30.git
